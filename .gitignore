@@ -1,0 +1,8 @@
+bin
+obj
+sfml-graphics-d-2.dll
+sfml-system-d-2.dll
+sfml-window-d-2.dll
+sfCoach.depend
+sfCoach.layout
+sfCoach.cbp
